@@ -1,2 +1,1 @@
-# https://mishajib.github.io/shopify/
-# shopify
+# [Shopify](https://mishajib.github.io/shopify/)
